@@ -25,4 +25,19 @@ public class UserController {
     public void changePassword(@AuthenticationPrincipal AuthUser authUser, @RequestBody UserChangePasswordRequest userChangePasswordRequest) {
         userService.changePassword(authUser.getId(), userChangePasswordRequest);
     }
+    //랜덤 유저 100만개 생성
+    @PostMapping("/users/create/million")
+    public void createMillionUsers(){
+        userService.createMillionUsers();
+    }
+
+    @GetMapping("/users/get/advanced/{nickname}")
+    public ResponseEntity<Long> getUserFromMillion(@PathVariable String nickname) {
+        return ResponseEntity.ok(userService.getUserFromMillion(nickname));
+    }
+
+    @GetMapping("/users/get/{nickname}")
+    public ResponseEntity<Long> getUserByNickname(@PathVariable String nickname) {
+        return ResponseEntity.ok(userService.getUserByNickname(nickname));
+    }
 }
