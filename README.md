@@ -22,3 +22,7 @@ Development
 
 ## EC2
 <img width="1565" alt="Screenshot 2024-10-10 at 5 07 48 PM" src="https://github.com/user-attachments/assets/210002a6-5e10-49ed-b398-3544c664e2ec">
+
+##RDS Database
+
+![Screenshot 2024-10-10 at 8 07 36 PM](https://github.com/user-attachments/assets/d6c4b089-2395-4959-8341-d10823eafedc)
