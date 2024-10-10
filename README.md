@@ -62,7 +62,7 @@ Development
 - JPA 테이블 인덱스 적용시 94% 지연시간 단축<br/><br/> 
 - JPQL 테이블 인덱스 적용시 97% 지연시간 단축<br/><br/> 
 - JPA to JPQL 테이블 인덱스 적용시 75% 지연시간 단축<br/><br/> 
-- JPA to JPQL 테이블 인덱스 미적용시 50% 지연시간 단축<br/><br/>
+- JPA to JPQL 테이블 인덱스 미적용시 50% 지연시간 단축<br/><br/>
 
 # ⚒️Troubleshooting
 
