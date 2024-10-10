@@ -20,5 +20,5 @@ Development
 ## HEALTH CHECK
 <img width="1271" alt="Screenshot 2024-10-10 at 5 03 24 PM" src="https://github.com/user-attachments/assets/6879cb05-c0ff-4985-87fd-ebc76fefc580">
 
-##EC2
+## EC2
 <img width="1565" alt="Screenshot 2024-10-10 at 5 07 48 PM" src="https://github.com/user-attachments/assets/210002a6-5e10-49ed-b398-3544c664e2ec">
