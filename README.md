@@ -59,10 +59,10 @@ Development
 | 테이블 인덱스 미적용 | 428ms |214ms |
 | 테이블 인덱스 적용 | 27ms   |7ms  |
 
-- JPA 테이블 인덱스 적용시 94% 성능향상<br/><br/> 
-- JPQL 테이블 인덱스 적용시 97% 성능향상<br/><br/> 
-- JPA to JPQL 테이블 인덱스 적용시 75% 성능향상<br/><br/> 
-- JPA to JPQL 테이블 인덱스 미적용시 50% 성능향상<br/><br/>
+- JPA 테이블 인덱스 적용시 94% 지연시간 단축<br/><br/> 
+- JPQL 테이블 인덱스 적용시 97% 지연시간 단축<br/><br/> 
+- JPA to JPQL 테이블 인덱스 적용시 75% 지연시간 단축<br/><br/> 
+- JPA to JPQL 테이블 인덱스 미적용시 50% 지연시간 단축<br/><br/>
 
 # ⚒️Troubleshooting
 
